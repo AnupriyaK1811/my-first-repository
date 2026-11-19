@@ -12,3 +12,4 @@ Hello! I'm a first-year CSE student learning programming.
 To become a better programmer by consistently
 solving problems and building projects.
 I am learning how Git branches work!
+I am now learning Git pull!
